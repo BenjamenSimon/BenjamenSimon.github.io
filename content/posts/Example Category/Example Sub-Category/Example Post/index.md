@@ -13,6 +13,7 @@ tags: ["Markdown","Content Organization","Example"]
 categories: ["Basic"]
 math: true
 mermaid: true
+draft: true
 ---
 
 This is a sample post intended to test the followings:
