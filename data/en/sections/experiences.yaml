@@ -1,0 +1,66 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: UK Health Security Agency
+    url: "https://www.gov.uk/government/organisations/uk-health-security-agency"
+    location: Remote
+    # company overview
+    overview: UKHSA provide intellectual, scientific and operational leadership at national and local level, as well as on the global stage, to make the nation's health secure.
+  positions:
+  - designation: Data Scientist
+    start: January 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: April 2022
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Early career research intern specialising in modelling epidemics.
+    - Predicted the reproduction number of COVID-19 to inform policy and the public.
+    - Redeveloped the EpiBeds COVID-19 model using Markov chain Monte Carlo methodology to improve the reliability of the inference, automate the tuning process, and increase the speed of the code, saving 15 hours of work each week.
+    - Led meetings with external shareholders to investigate what models and methods could be on-boarded to improve the accuracy and scope of our predictions, leading to the onboarding of two new models.
+
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
+
+- company: 
+    name: Lancaster Univesity Swing Dance
+    # url: "https://www.example.com"
+    location: Lancaster
+    overview: Lancaster Univesity Swing Dance is a not-for-profit organisation that provides lessons and events related to Swing Dance for the local and national community.
+  positions:
+  - designation: President, Teacher, and Community Leader
+    start: October 2018
+    # end: May 2017
+    responsibilities:
+    - Ran and organised the organisation, everything from weekly lessons to national 3-day events.
+    - Enacted a range of data driven changes to the organisation which directly led to a 100% increase in membership, a 500% increase in revenue, and a 100% increase in activity, including increasing the variety of events by 100%.
+    - Designed and spearheaded the post-lockdown relaunch campaign whilst managing and training a team of volunteers, training a cohort of new teachers, and developing a culture of constructive feedback and mutual growth within the group. By the end of the year member retention was up 150% compared to pre-lockdown rates, and the volunteer organising committee doubled.
+    - Awarded the “Hidden Hero Society of the Year” at the university awards (2022), nominated for the performance award and personally nominated for the greatest individual contribution award.
+
+# - company:
+#     name: Intern Counting Company (ICC).
+#     url: "https://www.example.com"
+#     location: Intern Land
+#     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+#   positions:
+#   - designation: Intern
+#     start: Jun 2015
+#     end: Jan 2016
+#     responsibilities:
+#     - Count lost of interns.
+#     - Count more interns.
+#     - Count me as an intern.

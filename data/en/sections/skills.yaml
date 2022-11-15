@@ -1,0 +1,53 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: /images/sections/skills/python3.png
+  summary: "Using as my main language for professional development. Capable of writing scalable, testable, and maintainable programs."
+  url: "https://www.python.org/"
+
+- name: Julia
+  logo: /images/sections/skills/julia.png
+  summary: "Using as my main language for professional development. Capable of writing scalable, testable, and maintainable programs."
+  url: "https://julialang.org/"
+
+- name: R | R Studio
+  logo: /images/sections/skills/RStudio.png
+  summary: "Using as my main language for professional development. Capable of writing scalable, testable, and maintainable programs."
+  url: "https://www.r-project.org/"
+
+- name: SQL | PostgreSQL | SQLite
+  logo: /images/sections/skills/postgresql.png
+  summary: "Expereinced in SQL and various database systems through working with big data during my PhD, and various projects and courses."
+
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Experience working with AWS, including Sage Maker and Jupyter Notebooks."
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Worked with and created dockerized containers to provide reproducible and stable environments for productionised code."
+  url: "https://www.docker.com/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as my main operating system. Capable of writing bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Manage my own code through github and have experience working with large organisations repositories."
+  url: "https://git-scm.com/"
+
+- name: Agile | Confluence | Jira
+  logo: /images/sections/skills/agile.png
+  summary: "Experience working in an agile environment, making use of tools such as Confluence and Jira to manage projects and communicate with my team."

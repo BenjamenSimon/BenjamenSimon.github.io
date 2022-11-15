@@ -1,0 +1,113 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Lancaster University
+  icon: fa-microscope
+  timeframe: 2018 - Present
+  institution:
+    name: Statistics PhD
+    url: "https://www.lancaster.ac.uk/bayes-for-health/"
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.6
+  #   outOf: 4
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #   url: "#"
+
+- name: Lancaster University
+  icon: fa-graduation-cap
+  timeframe: 2017 - 2018
+  institution:
+    name: Statstics MSc
+    url: "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-msc/"
+  grade: #(optional)
+    scale: Classification
+    achieved: Distinction
+    #outOf: Distinction
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Statistics in Practice
+      # achieved:
+      outOf: Bayesian Inference
+    - name: Likelihood Inference
+      # achieved:
+      outOf: Generalised Linear Models
+    - name: Computational Intensive Methods
+      # achieved:
+      outOf: Principles of Epidemiology
+    - name: Clinical Trials
+      # achieved:
+      outOf: Environmental Epidemiology
+    - name: Modelling of infectious diseases
+      # achieved:
+      outOf: Longitudinal Data Analysis
+  projects: #(optional)
+    - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      url: "#"
+    - title: Fusce eu augue ut odio porttitor pulvinar.
+      url: "#"
+  # coursework: #(optional)
+  #   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #     url: "#"
+  #   - title: Fusce eu augue ut odio porttitor pulvinar.
+  #     url: "#"
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  awards: #(optional)
+  - NIHR Studentship (Full course fees and a £15,000 stipend)
+  - Postgraduate Statistics Centre Prize for 'Excellence in Learning' (highest cohort average)
+  - Royal Statistical Society Prize for 'outstanding performance on an accredited programme'
+
+- name: University of York
+  icon: fa-university
+  timeframe: 2014-2017
+  institution:
+    name: Mathematics BSc
+    url: "https://www.york.ac.uk/maths/"
+  grade: #(optional)
+    scale: Classification
+    achieved: First with Distinction
+  projects: #(optional)
+    - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Statistics I & II
+      outOf: Linear Algebra
+    - name: Bayesian Statistics
+      outOf: Multivariate Analysis
+    - name: Applied Probability
+      outOf: Statistical Pattern Recognition
+    - name: Survival Analysis
+      outOf: Stochastic Processes
+    - name: Time Series
+  awards: #(optional)
+  - Kathleen Ryan prize for outstanding performance in final year single subject BSc Mathematics (highest cohort average).
+  # extracurricularActivities: #(optional)
+  # - In vitae facilisis est, eget porta sem.
+  # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  # - Duis sed massa feugiat, ornare justo et, aliquam est.
+  # - Pellentesque ut fringilla magna.

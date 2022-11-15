@@ -1,0 +1,22 @@
+# some information about you
+name: "Benjamen Simon"
+nickname: "Benjamen"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I'm"
+image: "images/author/Benjamen.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "Benjamenjsimon@gmail.com"
+  # phone: "+0123456789"
+  github: BenjamenSimon
+  linkedin: BenjamenSimon
+
+# some summary about what you do
+summary:
+  - I am a Data Scientist
+  - I am a PhD Student
+  - I am a Statistician
+  - I work on Epidemics
+  - I code in Python, Julia, and R
+  - I love Star Trek
+  - I love to dance

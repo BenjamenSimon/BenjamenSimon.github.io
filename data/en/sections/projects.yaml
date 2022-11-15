@@ -1,0 +1,66 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Python
+  filter: "Python"
+- name: R
+  filter: "R"
+- name: Julia
+  filter: "Julia"
+
+# your projects
+projects:
+- name: EpidemicR
+  logo: /images/sections/projects/RStudio.png
+  role: Owner
+  timeline: "2018 - 2019"
+  repo: https://github.com/BenjamenSimon/EpidemicR # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: A functional package that allows user to generate simulated epidemics, make inference on epidemic data using gold-standard methodolgy, and create various epidemic related plots.
+  tags: ["R", "Package", "PhD", "Epidemics"]
+
+- name: SIR Epidemics
+  logo: /images/sections/projects/RStudio.png
+  role: Owner
+  timeline: "2018 - 2019"
+  repo: https://github.com/BenjamenSimon/ThesisChapter1
+  #url: ""
+  summary: A set of code that allows one to generate a range of simulated SIR epidemics, and make inference on them using the EpidemicR package. This work supports chapter 1 of my PhD thesis.
+  tags: ["R", "PhD", "Epidemics"]
+
+- name: SEIR Epidemics
+  logo: /images/sections/projects/julia_.png
+  role: Owner
+  timeline: "2019 - 2020"
+  repo: https://github.com/BenjamenSimon/ThesisChapter2
+  #url: "https://www.example.com"
+  summary: A set of code that allows one to generate a range of simulated SEIR epidemics, and make inference on them using advanced methodologies, all coded in Julia for speed. This work supports chapter 2 of my PhD thesis.
+  tags: ["Julia", "PhD", "Epidemics"]
+
+- name: ABC for Epidemics
+  logo: /images/sections/projects/RStudio.png
+  role: Nothing
+  timeline: "2017 - 2018"
+  repo: https://github.com/BenjamenSimon/Approximate-Bayesian-Computation-for-Epidemics
+  #url: ""
+  summary: A set of code to run a selection of Approximate Bayesian Computation inference methods on an array of different epidemic data, both real and simulated. This work formed the foundation of my Masters thesis.
+  tags: ["R", "Masters", "Epidemics"]
+
+# - name: Toha
+#   logo: /images/sections/projects/toha.png
+#   role: Owner
+#   timeline: "Jun 2019 - Present"
+#   repo: https://github.com/hossainemruz/toha
+#   summary: A Hugo theme for personal portfolio.
+#   tags: ["hobby","hugo","theme","professional"]
