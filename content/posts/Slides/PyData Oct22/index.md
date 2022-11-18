@@ -14,8 +14,7 @@ categories: ["Epidemics", "Introduction", "Talk", "SIR"]
 math: true
 ---
 
-Hello! Here is a link to the slides of my talk titled:
-
+Here is a link to the slides of my talk titled:
 [How to Model the Spread of Epidemics](/files/Slides/Introduction_to_Epidemic_Modelling-Benjamen_Simon.pdf)
 
 This talk was delivered at the PyData Lancaster October 2022 Meetup.

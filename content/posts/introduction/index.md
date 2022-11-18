@@ -8,12 +8,14 @@ menu:
     identifier: introduction
     weight: 8
 hero: hero.svg
-tags: ["Basic", "Benjamen Simon", "PhD", "Background", "Author"]
+tags: ["Basic", "Benjamen Simon", "PhD", "Background"]
 categories: ["Basic", "Benjamen Simon"]
 ---
 
-Greetings! This is an introduction post. This post tests the followings:
+Hi! My name is Benjamen and I'm a Data Scientist and Statistics PhD student at Lancaster University.
 
-- Stuff
-- Things
-- and more...
+Welcome to my personal website and portfolio.
+
+If you're looking for some example of general Data Science projects that I have done, I recommend looking [here](/posts/projects/masters/). You can click any of the tags in posts you like to find similar posts, or use the search bar.
+
+If you're looking for the slides of a talk you saw me perform, check [here](/posts/slides/), and feel free to reach out to me if you have any questions.

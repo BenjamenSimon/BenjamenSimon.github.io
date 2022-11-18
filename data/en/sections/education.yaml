@@ -16,6 +16,14 @@ degrees:
   institution:
     name: Statistics PhD
     url: "https://www.lancaster.ac.uk/bayes-for-health/"
+  introdesc: #(optional)
+  - "A part of the Bayes4Health: New Approaches to Bayesian Data Science project"
+  - "Fully funded for 4 years including a ~£15,000 stipend per year"
+  talks: #(optional)
+    - title: An introduction to modelling epidemics.
+      url: "#"
+    - title: Modelling Bovine Tuberculosis in England and Wales using full likelihood methods.
+      url: #"#"
   # grade: #(optional)
   #   scale: CGPA
   #   achieved: 3.6
@@ -59,10 +67,24 @@ degrees:
       # achieved:
       outOf: Longitudinal Data Analysis
   projects: #(optional)
-    - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      url: "#"
-    - title: Fusce eu augue ut odio porttitor pulvinar.
-      url: "#"
+    - title: Predicting readmission for high-risk infants within 1 year of initial discharge A generalised linear model.
+      url: "/posts/projects/masters/glm/"
+    - title: A preliminary investigation regarding violence on a Yorkshire Hospital Psychiatric ward.
+      url: "/posts/projects/masters/sas/"
+    - title: Approximate Bayesian Computation for Epidemics.
+      url: "/posts/projects/masters/abcforepi/"
+    - title: A double-blind, randomised, placebo-controlled study of Vinpocetine for increasing IQ.
+      url: "/posts/projects/masters/clinical-trials-2/"
+    - title: "Bayesian Ridge Regression: An overview and comparison to classical regression."
+      url: "/posts/projects/masters/bayes/"
+    - title: Investigating the effect of Body Mass Index on the risk of Pre-Eclampsia.
+      url: "/posts/projects/masters/epidemiology/"
+    - title: Investigating the efficacy of Formoterol compared to Salbutamol using adjusted analysis.
+      url: "/posts/projects/masters/sciwriting/"
+    - title: A Spatial Analysis of Cases of Non-Specific Gastrointestinal Infections in Southampton.
+      url: "/posts/projects/masters/envepi/"
+    - title: The Ethical Issues of Placebo Control Trials.
+      url: "/posts/projects/masters/clinical-trials-1/"
   # coursework: #(optional)
   #   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #     url: "#"
@@ -88,8 +110,8 @@ degrees:
     scale: Classification
     achieved: First with Distinction
   projects: #(optional)
-    - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      url: "#"
+    - title: "Heavy Tails, Rare Events, and Infectious Diseases: Investigating superspreading through simulation."
+      url: #"#"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
