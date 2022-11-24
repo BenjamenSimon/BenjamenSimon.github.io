@@ -122,16 +122,17 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: false
+      enabled: true
       # Google Analytics
-      google:
-        id: G-H4LBG7NDFZ
+      # google:
+      #   id: G-H4LBG7NDFZ
       # # CounterDev
       # counterDev:
       #   id: <your counterdev id>
-      # # GoatCounter
-      # goatCounter:
-      #   code: <your goat counter code>
+      # GoatCounter
+      goatCounter:
+        code: <script data-goatcounter="https://benjamensimon.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
       # # Matomo / Piwik
       # matomo:
       #   instance: matomo.example.com
