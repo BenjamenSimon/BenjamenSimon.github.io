@@ -8,7 +8,7 @@ menu:
     parent: masters
     identifier: ABCforEpi
     weight: 90
-hero: hero.svg
+hero: images/ABC.jpg
 tags: ["Masters", "Portfolio", "Epidemics", "ABC", "SIR", "R"]
 categories: ["Masters", "Portfolio", "Epidemics", "ABC", "SIR", "R"]
 math: true

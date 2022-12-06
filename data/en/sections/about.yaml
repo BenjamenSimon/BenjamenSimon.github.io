@@ -19,13 +19,14 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am Statistics PhD student at Lancaster University where I work on modelling epidemics,
-           with a particular focus on large-scale epidemic inference for Bovine Tuberculosis in England and Wales 🐄 I was modelling epidemics before it was cool 😎'
+summary: "I am a Data Scientist with a ravenous curiosity and a love of interacting with people and having real world impact. 
+          I'm also a Statistics PhD student at Lancaster University where I work on solving some of the biggest challenges we face
+          using Statistics, Data Science, and modelling techniques 😎"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Emailw
+- name: Email
   icon: "fas fa-envelope"
   url: "example@gmail.com"
 
@@ -39,7 +40,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/benjamensimon/"
 
 # - name: Twitter
 #   icon: "fab fa-twitter"
@@ -75,33 +76,33 @@ badges:
 #   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Python
-  percentage: 80
+  name: "Python, R, Julia"
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
-  name: R
+  name: Data Analysis
   percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Julia
+  name: Visualisation
   percentage: 100
   color: orange
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
+  name: Machine Learning
+  percentage: 100
   color: "#17a2b8"
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
+  name: Leadership & Teamwork
+  percentage: 100
   color: green
 
 - type: soft-skill-indicator
   name: Project Management
-  percentage: 85
+  percentage: 100
   color: "#fd7e14"
 
 # you can also provide color code instead of the color name

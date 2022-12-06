@@ -8,7 +8,7 @@ menu:
     parent: masters
     identifier: SASEDA
     weight: 20
-hero: hero.svg
+hero: images/HospitalView.jpg
 tags: ["Masters", "Exploratory Data Analysis", "SAS", "Portfolio"]
 categories: ["Masters", "Exploratory Data Analysis", "SAS", "Portfolio"]
 math: true

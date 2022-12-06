@@ -7,7 +7,7 @@ menu:
     name: Introduction
     identifier: introduction
     weight: 8
-hero: hero.svg
+hero: polaroids.png
 tags: ["Basic", "Benjamen Simon", "PhD", "Background"]
 categories: ["Basic", "Benjamen Simon"]
 ---

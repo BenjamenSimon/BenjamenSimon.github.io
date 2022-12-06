@@ -8,7 +8,7 @@ menu:
     parent: masters
     identifier: epidemiolgy
     weight: 50
-hero: hero.svg
+hero: images/Pregnancy.jpg
 tags: ["Masters", "Regression", "Portfolio", "Machine Learning", "Supervised", "Simulation", "R"]
 categories: ["Masters", "Regression", "Portfolio", "Machine Learning", "Supervised", "Simulation", "R"]
 math: true

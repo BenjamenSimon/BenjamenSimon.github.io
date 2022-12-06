@@ -8,7 +8,7 @@ menu:
     parent: masters
     identifier: sciwriting
     weight: 10
-hero: hero.svg
+hero: images/Salbutamol.jpg
 tags: ["Masters", "Clinical Trial", "Regression", "Portfolio", "Machine Learning", "Supervised", "R"]
 categories: ["Masters", "Regression", "Portfolio", "Machine Learning", "Supervised", "R"]
 math: true

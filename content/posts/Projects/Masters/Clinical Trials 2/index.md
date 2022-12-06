@@ -8,7 +8,7 @@ menu:
     parent: masters
     identifier: clinicaltrials2
     weight: 80
-hero: hero.svg
+hero: images/Brain.jpg
 tags: ["Masters", "Portfolio", "Experiment Design", "Clinical Trial", "Regression"]
 categories: ["Masters", "Portfolio", "Experiment Design", "Clinical Trial", "Regression"]
 math: true

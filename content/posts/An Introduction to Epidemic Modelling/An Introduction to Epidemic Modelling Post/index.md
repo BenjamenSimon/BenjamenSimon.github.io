@@ -8,7 +8,7 @@ menu:
     parent: IntroEpiFolder
     identifier: introepi
     weight: 50
-hero: hero.svg
+hero: images/SIR.png
 tags: ["Introduction", "Epidemics", "PhD", "Background", "Series", "SIR"]
 categories: ["Epidemics", "Introduction", "Series", "SIR"]
 math: true

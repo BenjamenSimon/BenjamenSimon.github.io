@@ -8,7 +8,7 @@ menu:
     parent: masters
     identifier: clincaltrails1
     weight: 70
-hero: hero.svg
+hero: images/OpenBook.jpg
 tags: ["Masters", "Portfolio", "Ethics", "Clinical Trial"]
 categories: ["Masters", "Portfolio", "Ethics", "Clinical Trial"]
 math: true

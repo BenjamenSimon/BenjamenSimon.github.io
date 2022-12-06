@@ -8,7 +8,7 @@ menu:
     parent: Slides
     identifier: howtoepi
     weight: 50
-hero: hero.svg
+hero: images/PyDataOct22_1.png
 tags: ["Introduction", "Epidemics", "PhD", "Background", "Talk", "SIR"]
 categories: ["Epidemics", "Introduction", "Talk", "SIR"]
 math: true

@@ -8,7 +8,7 @@ menu:
     parent: masters
     identifier: mastersglm
     weight: 40
-hero: hero.svg
+hero: images/HospitalBaby.jpg
 tags: ["Masters", "Regression", "Portfolio", "Machine Learning", "Supervised", "GLM", "R"]
 categories: ["Masters", "Regression", "Portfolio", "Machine Learning", "Supervised", "GLM", "R"]
 math: true

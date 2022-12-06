@@ -8,7 +8,7 @@ menu:
     parent: masters
     identifier: bayesridge
     weight: 30
-hero: hero.svg
+hero: images/BayesRidge2.jpg
 tags: ["Masters", "Regression", "Portfolio", "Machine Learning", "Supervised", "R"]
 categories: ["Masters", "Regression", "Portfolio", "Machine Learning", "Supervised", "R"]
 math: true

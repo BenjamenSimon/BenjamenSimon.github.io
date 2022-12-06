@@ -8,7 +8,7 @@ menu:
     parent: masters
     identifier: envepi
     weight: 60
-hero: hero.svg
+hero: images/ChickenDinner.jpg
 tags: ["Masters", "Portfolio", "Machine Learning", "Supervised", "Spatial", "R"]
 categories: ["Masters", "Portfolio", "Machine Learning", "Supervised", "Spatial", "R"]
 math: true
