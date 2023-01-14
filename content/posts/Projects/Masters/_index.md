@@ -5,5 +5,5 @@ menu:
     name: Masters Projects
     identifier: masters
     parent: projects
-    weight: 9
+    weight: 50
 ---
